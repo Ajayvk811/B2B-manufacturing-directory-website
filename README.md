@@ -110,7 +110,7 @@ Add your project screenshot here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ajayvk811/B2B-manufacturing-directory-website/
    ```
 
 2. Open the project folder
