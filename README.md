@@ -85,8 +85,10 @@ project-folder/
 ├── index.html
 ├── directory-listing.html
 ├── directory-details-page.html
-├── style.css
+├── css/style.css
 ├── images/
+├── js/
+├── fonts/
 └── README.md
 ```
 
@@ -99,10 +101,10 @@ project-folder/
 Add your project screenshot here:
 
 ```md
-![Project Preview](./preview.jpg)
+![Project Preview](./preview.png)
 ```
 
-> Replace `preview.jpg` with your actual screenshot file name.
+> Replace `preview.png` with your actual screenshot file name.
 
 ---
 
